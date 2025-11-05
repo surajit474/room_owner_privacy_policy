@@ -2,7 +2,7 @@
 
 **Last Updated:** November 05, 2025
 
-Room Owner (“we,” “our,” or “us”) operates the Room Owner Android application (“App”). This Privacy Policy describes how we collect, use, and protect your information.
+Room Owner we operates the Room Owner Android application (“App”). This Privacy Policy describes how we collect, use, and protect your information.
 
 ## Information We Collect
 We may collect the following information when you use our App:
@@ -14,7 +14,7 @@ We may collect the following information when you use our App:
 The collected information is used to:
 - Create and manage user accounts.
 - Display room listings and locations.
-- Maintain and improve the App’s services.
+
 
 ## Data Sharing
 We **do not share**, sell, or rent your data with any third parties.  
@@ -32,4 +32,4 @@ We may update this Privacy Policy periodically. Updates will be reflected within
 
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us at:  
-📧 **your-support-email@example.com**
+📧 **sura.dev259@gmail.com**
