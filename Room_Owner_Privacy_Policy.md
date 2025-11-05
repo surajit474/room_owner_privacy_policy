@@ -27,6 +27,11 @@ We use reasonable technical and organizational measures to protect your personal
 You may request to update or delete your personal data or withdraw consent for its use at any time.  
 Note that certain features may not function without the required data.
 
+## Request Account Deletion
+If you wish to delete your account and all associated data, please send an email to  
+📧 **sura.dev259@gmail.com** with the subject “Delete My Account.”  
+We will process your request within 7 business days.
+
 ## Changes to This Policy
 We may update this Privacy Policy periodically. Updates will be reflected within the App and on this page with the new effective date.
 
